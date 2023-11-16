@@ -42,7 +42,7 @@ watsonx assistant into a static web page and host it using [GitHub Pages](https:
    
    ![my github pages](./images/my-github-pages.png)
 
-   Now you GitHub Pages URL will show up in the `Action` section.
+   Now you GitHub Pages URL will show up in the `About` section.
 
 1. Click the `index.html` file, and you will see the HTML content of the sample file.
    
